@@ -22,6 +22,7 @@
 
 	<modules>
 		<module>topc-spring-cloud-eureka</module>
+		<module>topc-spring-cloud-gateway</module>
 	</modules>
 
 	<dependencyManagement>
